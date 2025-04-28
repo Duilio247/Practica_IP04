@@ -4,7 +4,7 @@ Agregar una conexion a la api de gandy
 
 ### Amarillo
 * Juan Piero
-* Dulio Quispe
+* Duilio Quispe
 
 ## 📱 Capturas de pantalla
 
